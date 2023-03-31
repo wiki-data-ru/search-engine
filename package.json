@@ -1,0 +1,21 @@
+{
+  "name": "search-engine",
+  "version": "1.0.0",
+  "description": "Page search engine",
+  "main": "cli",
+  "scripts": {
+    "start": "echo \"Error",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.0"
+  }
+}
